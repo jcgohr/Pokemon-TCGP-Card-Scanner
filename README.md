@@ -59,13 +59,7 @@ This ensures the feature remains fully functional and scalable, even as the Pok√
 https://github.com/user-attachments/assets/fee7ac03-a995-4bdc-98a1-f64b6856a97b
 
 
-## Results and Future Work
-The final solution significantly improves the speed and accuracy of card recognition and collection updates. By combining state-of-the-art computer vision with efficient hashing and caching strategies, the system achieves a balance of performance and reliability.
 
-Potential next steps include:
-- Further optimizing the training pipeline with larger and more diverse datasets
-- Exploring model compression techniques for even faster inference on lower-end devices
-- Implementing real-time recognition capabilities directly from video streams
 
 ---
 ![image](https://github.com/user-attachments/assets/df22531f-a535-47e9-b20a-2e0aca44455c)
