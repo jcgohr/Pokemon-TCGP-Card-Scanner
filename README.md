@@ -85,7 +85,7 @@ Ready to dive in? Here’s how to run the project:
 
 ```bash
 git clone https://github.com/1vcian/Pokemon-TCGP-Card-Scanner
-cd tcg-pocket-collection-tracker
+cd Pokemon-TCGP-Card-Scanner/pokemon-tcgp-card-scanner/
 npm install
 npm run dev
 ```
