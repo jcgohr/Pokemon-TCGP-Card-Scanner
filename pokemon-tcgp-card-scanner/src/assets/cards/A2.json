@@ -1,0 +1,7687 @@
+[
+  {
+    "id": "1",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_001_EN.webp",
+    "hp": "60",
+    "name": "Oddish",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass"],
+        "name": "Blot",
+        "damage": "10",
+        "effect": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #1",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Asako Ito",
+    "crafting_cost": 35
+  },
+  {
+    "id": "2",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_002_EN.webp",
+    "hp": "80",
+    "name": "Gloom",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass"],
+        "name": "Razor Leaf",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #2",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shibuzoh.",
+    "crafting_cost": 35
+  },
+  {
+    "id": "3",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_003_EN.webp",
+    "hp": "130",
+    "name": "Bellossom",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass"],
+        "name": "Leaf Step",
+        "damage": "80",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #3",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 70
+  },
+  {
+    "id": "4",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_004_EN.webp",
+    "hp": "70",
+    "name": "Tangela",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Vine Whip",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #4",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Narumi Sato",
+    "crafting_cost": 35
+  },
+  {
+    "id": "5",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_005_EN.webp",
+    "hp": "130",
+    "name": "Tangrowth",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Grass", "Colorless"],
+        "name": "Mega Drain",
+        "damage": "90",
+        "effect": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #5",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #156",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "kodama",
+    "crafting_cost": 70
+  },
+  {
+    "id": "6",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_006_EN.webp",
+    "hp": "50",
+    "name": "Yanma",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Flap",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #6",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Eri Yamaki",
+    "crafting_cost": 35
+  },
+  {
+    "id": "7",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_007_EN.webp",
+    "hp": "140",
+    "name": "Yanmega ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Air Slash",
+        "damage": "120",
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #7",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #180",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #196",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 500
+  },
+  {
+    "id": "8",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_008_EN.webp",
+    "hp": "70",
+    "name": "Roselia",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass"],
+        "name": "Sting",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #8",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "kirisAki",
+    "crafting_cost": 35
+  },
+  {
+    "id": "9",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_009_EN.webp",
+    "hp": "100",
+    "name": "Roserade",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Poisonous Whip",
+        "damage": "50",
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #9",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "crafting_cost": 70
+  },
+  {
+    "id": "10",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_010_EN.webp",
+    "hp": "80",
+    "name": "Turtwig",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Bite",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #10",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #35",
+        "rarity": ""
+      }
+    ],
+    "artist": "OOYAMA",
+    "crafting_cost": 35
+  },
+  {
+    "id": "11",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_011_EN.webp",
+    "hp": "100",
+    "name": "Grotle",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Colorless"],
+        "name": "Razor Leaf",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #11",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Sumiyoshi Kizuki",
+    "crafting_cost": 70
+  },
+  {
+    "id": "12",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_012_EN.webp",
+    "hp": "160",
+    "name": "Torterra",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+        "name": "Frenzy Plant",
+        "damage": "150",
+        "effect": "During your next turn, this Pokémon can't use Frenzy Plant."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "4",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #12",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "kawayoo",
+    "crafting_cost": 150
+  },
+  {
+    "id": "13",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_013_EN.webp",
+    "hp": "60",
+    "name": "Kricketot",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass"],
+        "name": "Bug Bite",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #13",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shigenori Negishi",
+    "crafting_cost": 35
+  },
+  {
+    "id": "14",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_014_EN.webp",
+    "hp": "90",
+    "name": "Kricketune",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Entrancing Melody",
+        "damage": "50",
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #14",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 35
+  },
+  {
+    "id": "15",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_015_EN.webp",
+    "hp": "60",
+    "name": "Burmy",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Tackle",
+        "damage": "10",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #15",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Mugi Hamada",
+    "crafting_cost": 35
+  },
+  {
+    "id": "16",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_016_EN.webp",
+    "hp": "120",
+    "name": "Wormadam",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless", "Colorless"],
+        "name": "Leaf Cutter",
+        "damage": "60+",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #16",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": 35
+  },
+  {
+    "id": "17",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_017_EN.webp",
+    "hp": "50",
+    "name": "Combee",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Call for",
+        "damage": "Family",
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #17",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #157",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Yukiko Baba",
+    "crafting_cost": 35
+  },
+  {
+    "id": "18",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_018_EN.webp",
+    "hp": "100",
+    "name": "Vespiquen",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass"],
+        "name": "Pierce",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #18",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "chibi",
+    "crafting_cost": 70
+  },
+  {
+    "id": "19",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_019_EN.webp",
+    "hp": "90",
+    "name": "Carnivine",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Colorless"],
+        "name": "Flog",
+        "damage": "40+",
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #19",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #158",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Anesaki Dynamic",
+    "crafting_cost": 70
+  },
+  {
+    "id": "20",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_020_EN.webp",
+    "hp": "90",
+    "name": "Leafeon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Leafy Cyclone",
+        "damage": "90",
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #20",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": 150
+  },
+  {
+    "id": "21",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_021_EN.webp",
+    "hp": "80",
+    "name": "Mow Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Energy Cutoff",
+        "damage": "30",
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #21",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "kawayoo",
+    "crafting_cost": 35
+  },
+  {
+    "id": "22",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_022_EN.webp",
+    "hp": "60",
+    "name": "Shaymin",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Flop",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Fragrant Flower Garden",
+      "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #22",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #159",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Narumi Sato",
+    "crafting_cost": 150
+  },
+  {
+    "id": "23",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_023_EN.webp",
+    "hp": "80",
+    "name": "Magmar",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fire"],
+        "name": "Unknown",
+        "damage": "Stoke",
+        "effect": "Take a [R] Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #23",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Hiroki Asanuma",
+    "crafting_cost": 35
+  },
+  {
+    "id": "24",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_024_EN.webp",
+    "hp": "130",
+    "name": "Magmortar",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fire", "Fire", "Fire", "Fire"],
+        "name": "Bursting Inferno",
+        "damage": "100",
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "3",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #24",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "KEIICHIRO ITO",
+    "crafting_cost": 150
+  },
+  {
+    "id": "25",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_025_EN.webp",
+    "hp": "70",
+    "name": "Slugma",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fire"],
+        "name": "Flare",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #25",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 35
+  },
+  {
+    "id": "26",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_026_EN.webp",
+    "hp": "120",
+    "name": "Magcargo",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fire", "Colorless"],
+        "name": "Searing Flame",
+        "damage": "30",
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #26",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Oswaldo KATO",
+    "crafting_cost": 70
+  },
+  {
+    "id": "27",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_027_EN.webp",
+    "hp": "60",
+    "name": "Chimchar",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fire"],
+        "name": "Scratch",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #27",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #40",
+        "rarity": ""
+      }
+    ],
+    "artist": "Kagemaru Himeno",
+    "crafting_cost": 35
+  },
+  {
+    "id": "28",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_028_EN.webp",
+    "hp": "80",
+    "name": "Monferno",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fire"],
+        "name": "Fiery Punch",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #28",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "crafting_cost": 70
+  },
+  {
+    "id": "29",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_029_EN.webp",
+    "hp": "170",
+    "name": "Infernape ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fire", "Fire"],
+        "name": "Flare Blitz",
+        "damage": "140",
+        "effect": "Discard all [R] Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "0",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #29",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #181",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #197",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 500
+  },
+  {
+    "id": "30",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_030_EN.webp",
+    "hp": "80",
+    "name": "Heat Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fire", "Colorless"],
+        "name": "Heat Breath",
+        "damage": "30+",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #30",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Kedamahadaitai Yawarakai",
+    "crafting_cost": 35
+  },
+  {
+    "id": "31",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_031_EN.webp",
+    "hp": "60",
+    "name": "Swinub",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water", "Colorless"],
+        "name": "Headbutt",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #31",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Eri Yamaki",
+    "crafting_cost": 35
+  },
+  {
+    "id": "32",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_032_EN.webp",
+    "hp": "110",
+    "name": "Piloswine",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Water", "Colorless"],
+        "name": "Hammer In",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −20 damage from attacks from  or  Pokémon."
+    },
+    "weakness": "Metal",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #32",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Suwama Chiaki",
+    "crafting_cost": 70
+  },
+  {
+    "id": "33",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_033_EN.webp",
+    "hp": "160",
+    "name": "Mamoswine",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Water", "Water", "Colorless", "Colorless"],
+        "name": "Frosty Flattening",
+        "damage": "120",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −30 damage from attacks from  or  Pokémon."
+    },
+    "weakness": "Metal",
+    "retreat": "4",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #33",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #160",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "match",
+    "crafting_cost": 150
+  },
+  {
+    "id": "34",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_034_EN.webp",
+    "hp": "110",
+    "name": "Regice",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water", "Water"],
+        "name": "Frost Smash",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Crystal Body",
+      "effect": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon."
+    },
+    "weakness": "Metal",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #34",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Tomokazu Komiya",
+    "crafting_cost": 70
+  },
+  {
+    "id": "35",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_035_EN.webp",
+    "hp": "60",
+    "name": "Piplup",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Unknown",
+        "damage": "Nap",
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #35",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #34",
+        "rarity": ""
+      }
+    ],
+    "artist": "Hajime Kusajima",
+    "crafting_cost": 35
+  },
+  {
+    "id": "36",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_036_EN.webp",
+    "hp": "90",
+    "name": "Prinplup",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Colorless"],
+        "name": "Surf",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #36",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Mizue",
+    "crafting_cost": 70
+  },
+  {
+    "id": "37",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_037_EN.webp",
+    "hp": "150",
+    "name": "Empoleon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Water", "Water", "Colorless"],
+        "name": "Aqua Jet",
+        "damage": "80",
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #37",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Satoshi Shirai",
+    "crafting_cost": 150
+  },
+  {
+    "id": "38",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_038_EN.webp",
+    "hp": "60",
+    "name": "Buizel",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Water Gun",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #38",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "OKUBO",
+    "crafting_cost": 35
+  },
+  {
+    "id": "39",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_039_EN.webp",
+    "hp": "90",
+    "name": "Floatzel",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Jet Screw",
+        "damage": "30+",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #39",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kanako Eo",
+    "crafting_cost": 70
+  },
+  {
+    "id": "40",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_040_EN.webp",
+    "hp": "70",
+    "name": "Shellos",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water", "Colorless"],
+        "name": "Mud-Slap",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #40",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Teeziro",
+    "crafting_cost": 35
+  },
+  {
+    "id": "41",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_041_EN.webp",
+    "hp": "120",
+    "name": "Gastrodon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Colorless", "Colorless"],
+        "name": "Muddy Water",
+        "damage": "60",
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #41",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #161",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Aya Kusube",
+    "crafting_cost": 70
+  },
+  {
+    "id": "42",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_042_EN.webp",
+    "hp": "50",
+    "name": "Finneon",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Elegant Swim",
+        "damage": "10",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #42",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shigenori Negishi",
+    "crafting_cost": 35
+  },
+  {
+    "id": "43",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_043_EN.webp",
+    "hp": "90",
+    "name": "Lumineon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Waterfall",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #43",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "rika",
+    "crafting_cost": 70
+  },
+  {
+    "id": "44",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_044_EN.webp",
+    "hp": "70",
+    "name": "Snover",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Ice Shard",
+        "damage": "10+",
+        "effect": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #44",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "match",
+    "crafting_cost": 35
+  },
+  {
+    "id": "45",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_045_EN.webp",
+    "hp": "140",
+    "name": "Abomasnow",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Water", "Water", "Colorless"],
+        "name": "Frost Breath",
+        "damage": "120",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "4",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #45",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Shin Nagasawa",
+    "crafting_cost": 70
+  },
+  {
+    "id": "46",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_046_EN.webp",
+    "hp": "90",
+    "name": "Glaceon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Water"],
+        "name": "Ice Beam",
+        "damage": "60",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #46",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 150
+  },
+  {
+    "id": "47",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_047_EN.webp",
+    "hp": "80",
+    "name": "Wash Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Wave Splash",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #47",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Saboteri",
+    "crafting_cost": 35
+  },
+  {
+    "id": "48",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_048_EN.webp",
+    "hp": "80",
+    "name": "Frost Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water", "Water"],
+        "name": "Blizzard",
+        "damage": "30",
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #48",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "MAHOU",
+    "crafting_cost": 35
+  },
+  {
+    "id": "49",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_049_EN.webp",
+    "hp": "150",
+    "name": "Palkia ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Slash",
+        "damage": "30",
+        "effect": "No effect"
+      },
+      {
+        "cost": ["Water", "Water", "Water", "Colorless"],
+        "name": "Dimensional Storm",
+        "damage": "150",
+        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #49",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #182",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #204",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #206",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 500
+  },
+  {
+    "id": "50",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_050_EN.webp",
+    "hp": "50",
+    "name": "Manaphy",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Oceanic",
+        "damage": "Gift",
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #50",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #162",
+        "rarity": "☆"
+      },
+      {
+        "version": "Promo-A #48",
+        "rarity": ""
+      }
+    ],
+    "artist": "MINAMINAMI Take",
+    "crafting_cost": 70
+  },
+  {
+    "id": "51",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_051_EN.webp",
+    "hp": "60",
+    "name": "Magnemite",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Ram",
+        "damage": "10",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #51",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "MAHOU",
+    "crafting_cost": 35
+  },
+  {
+    "id": "52",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_052_EN.webp",
+    "hp": "80",
+    "name": "Magneton",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Lightning Ball",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #52",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Yumi",
+    "crafting_cost": 70
+  },
+  {
+    "id": "53",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_053_EN.webp",
+    "hp": "140",
+    "name": "Magnezone",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Colorless", "Colorless"],
+        "name": "Thunder Blast",
+        "damage": "110",
+        "effect": "Discard a [L] Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #53",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Yoshinobu Saito",
+    "crafting_cost": 150
+  },
+  {
+    "id": "54",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_054_EN.webp",
+    "hp": "60",
+    "name": "Voltorb",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Big Explosion",
+        "damage": "30",
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #54",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Midori Harada",
+    "crafting_cost": 35
+  },
+  {
+    "id": "55",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_055_EN.webp",
+    "hp": "80",
+    "name": "Electrode",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Rolling Attack",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #55",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Anesaki Dynamic",
+    "crafting_cost": 70
+  },
+  {
+    "id": "56",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_056_EN.webp",
+    "hp": "80",
+    "name": "Electabuzz",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Unknown",
+        "damage": "Charge",
+        "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #56",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shin Nagasawa",
+    "crafting_cost": 35
+  },
+  {
+    "id": "57",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_057_EN.webp",
+    "hp": "120",
+    "name": "Electivire",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Exciting Voltage",
+        "damage": "40+",
+        "effect": "If this Pokémon has at least 2 extra [L] Energy attached, this attack does 80 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "3",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #57",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Promo-A #36",
+        "rarity": ""
+      }
+    ],
+    "artist": "kawayoo",
+    "crafting_cost": 150
+  },
+  {
+    "id": "58",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_058_EN.webp",
+    "hp": "60",
+    "name": "Shinx",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Unknown",
+        "damage": "Hide",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #58",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #163",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Shibuzoh.",
+    "crafting_cost": 35
+  },
+  {
+    "id": "59",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_059_EN.webp",
+    "hp": "90",
+    "name": "Luxio",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Colorless"],
+        "name": "Electric Claws",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #59",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Naoki Saito",
+    "crafting_cost": 70
+  },
+  {
+    "id": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_060_EN.webp",
+    "hp": "130",
+    "name": "Luxray",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning", "Lightning"],
+        "name": "Volt",
+        "damage": "Bolt",
+        "effect": "Discard all [L] Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "0",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #60",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Hitoshi Ariga",
+    "crafting_cost": 150
+  },
+  {
+    "id": "61",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_061_EN.webp",
+    "hp": "120",
+    "name": "Pachirisu ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Sparking Gadget",
+        "damage": "40+",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #61",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #183",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #198",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 500
+  },
+  {
+    "id": "62",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_062_EN.webp",
+    "hp": "70",
+    "name": "Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Assault Laser",
+        "damage": "20+",
+        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #62",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #164",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Krgc",
+    "crafting_cost": 35
+  },
+  {
+    "id": "63",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_063_EN.webp",
+    "hp": "50",
+    "name": "Togepi",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Pound",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #63",
+        "rarity": "◊"
+      },
+      {
+        "version": "Promo-A #41",
+        "rarity": ""
+      }
+    ],
+    "artist": "Narumi Sato",
+    "crafting_cost": 35
+  },
+  {
+    "id": "64",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_064_EN.webp",
+    "hp": "80",
+    "name": "Togetic",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Fairy Wind",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #64",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kanako Eo",
+    "crafting_cost": 70
+  },
+  {
+    "id": "65",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_065_EN.webp",
+    "hp": "140",
+    "name": "Togekiss",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Overdrive Smash",
+        "damage": "60",
+        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Metal",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #65",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "kawayoo",
+    "crafting_cost": 150
+  },
+  {
+    "id": "66",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_066_EN.webp",
+    "hp": "60",
+    "name": "Misdreavus",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Mumble",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #66",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Sumiyoshi Kizuki",
+    "crafting_cost": 35
+  },
+  {
+    "id": "67",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_067_EN.webp",
+    "hp": "140",
+    "name": "Mismagius ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Magical Delusion",
+        "damage": "70",
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #67",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #184",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #199",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Igarashi",
+    "crafting_cost": 500
+  },
+  {
+    "id": "68",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_068_EN.webp",
+    "hp": "60",
+    "name": "Ralts",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Unknown",
+        "damage": "Teleport",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #68",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Miki Tanaka",
+    "crafting_cost": 35
+  },
+  {
+    "id": "69",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_069_EN.webp",
+    "hp": "80",
+    "name": "Kirlia",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Slap",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #69",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Yukiko Baba",
+    "crafting_cost": 35
+  },
+  {
+    "id": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_070_EN.webp",
+    "hp": "60",
+    "name": "Duskull",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Will-O-Wisp",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #70",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "ryoma uratsuka",
+    "crafting_cost": 35
+  },
+  {
+    "id": "71",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_071_EN.webp",
+    "hp": "90",
+    "name": "Dusclops",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Colorless", "Colorless"],
+        "name": "Psypunch",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #71",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Sumiyoshi Kizuki",
+    "crafting_cost": 70
+  },
+  {
+    "id": "72",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_072_EN.webp",
+    "hp": "130",
+    "name": "Dusknoir",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Colorless", "Colorless"],
+        "name": "Devour Soul",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Shadow Void",
+      "effect": "As often as you like during your turn, you may choose 1 of your Pokémon that has damage on it, and move all of its damage to this Pokémon."
+    },
+    "weakness": "Darkness",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #72",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Suwama Chiaki",
+    "crafting_cost": 150
+  },
+  {
+    "id": "73",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_073_EN.webp",
+    "hp": "50",
+    "name": "Drifloon",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Expand",
+        "damage": "10",
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #73",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #165",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Atsuko Nishida",
+    "crafting_cost": 35
+  },
+  {
+    "id": "74",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_074_EN.webp",
+    "hp": "100",
+    "name": "Drifblim",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Balloon Strike",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #74",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Miki Tanaka",
+    "crafting_cost": 70
+  },
+  {
+    "id": "75",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_075_EN.webp",
+    "hp": "70",
+    "name": "Uxie",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Mind Boost",
+        "damage": "20",
+        "effect": "Take a [P] Energy from your Energy Zone and attach it to Mesprit or Azelf."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #75",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "AKIRA EGAWA",
+    "crafting_cost": 70
+  },
+  {
+    "id": "76",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_076_EN.webp",
+    "hp": "70",
+    "name": "Mesprit",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic", "Psychic"],
+        "name": "Supreme Blast",
+        "damage": "160",
+        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #76",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #166",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "AKIRA EGAWA",
+    "crafting_cost": 150
+  },
+  {
+    "id": "77",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_077_EN.webp",
+    "hp": "70",
+    "name": "Azelf",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Psychic",
+        "damage": "Arrow",
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #77",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "AKIRA EGAWA",
+    "crafting_cost": 70
+  },
+  {
+    "id": "78",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_078_EN.webp",
+    "hp": "120",
+    "name": "Giratina",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic", "Colorless"],
+        "name": "Spooky Shot",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Levitate",
+      "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+    },
+    "weakness": "Darkness",
+    "retreat": "3",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #78",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #167",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "AKIRA EGAWA",
+    "crafting_cost": 150
+  },
+  {
+    "id": "79",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_079_EN.webp",
+    "hp": "110",
+    "name": "Cresselia",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Moonlight Gain",
+        "damage": "50",
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #79",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #168",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Masako Tomii",
+    "crafting_cost": 150
+  },
+  {
+    "id": "80",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_080_EN.webp",
+    "hp": "80",
+    "name": "Rhyhorn",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Colorless"],
+        "name": "Horn Attack",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "3",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #80",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "otumami",
+    "crafting_cost": 35
+  },
+  {
+    "id": "81",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_081_EN.webp",
+    "hp": "110",
+    "name": "Rhydon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Colorless"],
+        "name": "Wrack Down",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #81",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Oswaldo KATO",
+    "crafting_cost": 70
+  },
+  {
+    "id": "82",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_082_EN.webp",
+    "hp": "160",
+    "name": "Rhyperior",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "name": "Mountain Swing",
+        "damage": "150",
+        "effect": "Discard the top 3 cards of your deck."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "4",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #82",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #169",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Naoki Saito",
+    "crafting_cost": 150
+  },
+  {
+    "id": "83",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_083_EN.webp",
+    "hp": "60",
+    "name": "Gligar",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting"],
+        "name": "Pierce",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #83",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Sanosuke Sakuma",
+    "crafting_cost": 35
+  },
+  {
+    "id": "84",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_084_EN.webp",
+    "hp": "100",
+    "name": "Gliscor",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting"],
+        "name": "Acrobatics",
+        "damage": "20+",
+        "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #84",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Mizue",
+    "crafting_cost": 70
+  },
+  {
+    "id": "85",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_085_EN.webp",
+    "hp": "80",
+    "name": "Hitmontop",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Spinning Attack",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Psychic",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #85",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "sowsow",
+    "crafting_cost": 35
+  },
+  {
+    "id": "86",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_086_EN.webp",
+    "hp": "70",
+    "name": "Nosepass",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Ram",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #86",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Midori Harada",
+    "crafting_cost": 35
+  },
+  {
+    "id": "87",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_087_EN.webp",
+    "hp": "120",
+    "name": "Regirock",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "name": "Boulder Crush",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Exoskeleton",
+      "effect": "This Pokémon takes −20 damage from attacks."
+    },
+    "weakness": "Grass",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #87",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Tomokazu Komiya",
+    "crafting_cost": 70
+  },
+  {
+    "id": "88",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_088_EN.webp",
+    "hp": "90",
+    "name": "Cranidos",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting"],
+        "name": "Headbutt",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #88",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": 70
+  },
+  {
+    "id": "89",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_089_EN.webp",
+    "hp": "150",
+    "name": "Rampardos",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting"],
+        "name": "Head Smash",
+        "damage": "130",
+        "effect": "If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #89",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Yoshinobu Saito",
+    "crafting_cost": 150
+  },
+  {
+    "id": "90",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_090_EN.webp",
+    "hp": "120",
+    "name": "Wormadam",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Colorless", "Colorless"],
+        "name": "Land Crush",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #90",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Hajime Kusajima",
+    "crafting_cost": 35
+  },
+  {
+    "id": "91",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_091_EN.webp",
+    "hp": "60",
+    "name": "Riolu",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting"],
+        "name": "Jab",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Psychic",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #91",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "AKIRA EGAWA",
+    "crafting_cost": 35
+  },
+  {
+    "id": "92",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_092_EN.webp",
+    "hp": "100",
+    "name": "Lucario",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Submarine Blow",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Fighting Coach",
+      "effect": "Attacks used by your  Pokémon do +20 damage to your opponent's Active Pokémon."
+    },
+    "weakness": "Psychic",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #92",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #170",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "nagimiso",
+    "crafting_cost": 150
+  },
+  {
+    "id": "93",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_093_EN.webp",
+    "hp": "80",
+    "name": "Hippopotas",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Colorless"],
+        "name": "Rolling Tackle",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "3",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #93",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #171",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Akira Komayama",
+    "crafting_cost": 35
+  },
+  {
+    "id": "94",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_094_EN.webp",
+    "hp": "140",
+    "name": "Hippowdon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "name": "Earthen Press",
+        "damage": "120",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "4",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #94",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "KEIICHIRO ITO",
+    "crafting_cost": 70
+  },
+  {
+    "id": "95",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_095_EN.webp",
+    "hp": "170",
+    "name": "Gallade ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Energized Blade",
+        "damage": "70+",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Psychic",
+    "retreat": "1",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #95",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #185",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #200",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 500
+  },
+  {
+    "id": "96",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_096_EN.webp",
+    "hp": "60",
+    "name": "Murkrow",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Peck",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #96",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Yukiko Baba",
+    "crafting_cost": 35
+  },
+  {
+    "id": "97",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_097_EN.webp",
+    "hp": "100",
+    "name": "Honchkrow",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness"],
+        "name": "Skill",
+        "damage": "Dive",
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #97",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Hideki Ishikawa",
+    "crafting_cost": 70
+  },
+  {
+    "id": "98",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_098_EN.webp",
+    "hp": "60",
+    "name": "Sneasel",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Double Scratch",
+        "damage": "20x",
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #98",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Hasuno",
+    "crafting_cost": 35
+  },
+  {
+    "id": "99",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_099_EN.webp",
+    "hp": "140",
+    "name": "Weavile ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Scratching Nails",
+        "damage": "30+",
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #99",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #186",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #201",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 500
+  },
+  {
+    "id": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_100_EN.webp",
+    "hp": "60",
+    "name": "Poochyena",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Bite",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #100",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Midori Harada",
+    "crafting_cost": 35
+  },
+  {
+    "id": "101",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_101_EN.webp",
+    "hp": "90",
+    "name": "Mightyena",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Colorless"],
+        "name": "Darkness Fang",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #101",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": 70
+  },
+  {
+    "id": "102",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_102_EN.webp",
+    "hp": "70",
+    "name": "Stunky",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Scratch",
+        "damage": "10",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #102",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Kyoko Umemoto",
+    "crafting_cost": 35
+  },
+  {
+    "id": "103",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_103_EN.webp",
+    "hp": "100",
+    "name": "Skuntank",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Colorless"],
+        "name": "Poison Gas",
+        "damage": "50",
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #103",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "kirisAki",
+    "crafting_cost": 70
+  },
+  {
+    "id": "104",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_104_EN.webp",
+    "hp": "80",
+    "name": "Spiritomb",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Swirling",
+        "damage": "Disaster",
+        "effect": "This attack does 10 damage to each of your opponent's Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #104",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #172",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "HYOGONOSUKE",
+    "crafting_cost": 70
+  },
+  {
+    "id": "105",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_105_EN.webp",
+    "hp": "70",
+    "name": "Skorupi",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Colorless"],
+        "name": "Pierce",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #105",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Naoki Saito",
+    "crafting_cost": 35
+  },
+  {
+    "id": "106",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_106_EN.webp",
+    "hp": "120",
+    "name": "Drapion",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Darkness"],
+        "name": "Cross Poison",
+        "damage": "40x",
+        "effect": "Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #106",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Hitoshi Ariga",
+    "crafting_cost": 70
+  },
+  {
+    "id": "107",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_107_EN.webp",
+    "hp": "60",
+    "name": "Croagunk",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness"],
+        "name": "Group Beatdown",
+        "damage": "20x",
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #107",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #173",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "crafting_cost": 35
+  },
+  {
+    "id": "108",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_108_EN.webp",
+    "hp": "90",
+    "name": "Toxicroak",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness"],
+        "name": "Group Beatdown",
+        "damage": "40x",
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 40 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #108",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Hajime Kusajima",
+    "crafting_cost": 70
+  },
+  {
+    "id": "109",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_109_EN.webp",
+    "hp": "110",
+    "name": "Darkrai",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "name": "Dark Void",
+        "damage": "60",
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #109",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Masako Tomii",
+    "crafting_cost": 150
+  },
+  {
+    "id": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_110_EN.webp",
+    "hp": "140",
+    "name": "Darkrai ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "name": "Dark Prism",
+        "damage": "80",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #110",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #187",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #202",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Promo-A #42",
+        "rarity": ""
+      }
+    ],
+    "artist": "PLANETA Yamashita",
+    "crafting_cost": 500
+  },
+  {
+    "id": "111",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_111_EN.webp",
+    "hp": "80",
+    "name": "Skarmory",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal"],
+        "name": "Metal Arms",
+        "damage": "20+",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #111",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Promo-A #39",
+        "rarity": ""
+      }
+    ],
+    "artist": "Oswaldo KATO",
+    "crafting_cost": 70
+  },
+  {
+    "id": "112",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_112_EN.webp",
+    "hp": "110",
+    "name": "Registeel",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Metal"],
+        "name": "Metal Claw",
+        "damage": "90",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #112",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Tomokazu Komiya",
+    "crafting_cost": 70
+  },
+  {
+    "id": "113",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_113_EN.webp",
+    "hp": "100",
+    "name": "Shieldon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Metal", "Colorless"],
+        "name": "Headbutt",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #113",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kouki Saitou",
+    "crafting_cost": 70
+  },
+  {
+    "id": "114",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_114_EN.webp",
+    "hp": "160",
+    "name": "Bastiodon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Colorless"],
+        "name": "Headbang",
+        "damage": "80",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Guarded Grill",
+      "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −100 damage from that attack."
+    },
+    "weakness": "Fire",
+    "retreat": "4",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #114",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Kagemaru Himeno",
+    "crafting_cost": 150
+  },
+  {
+    "id": "115",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_115_EN.webp",
+    "hp": "110",
+    "name": "Wormadam",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal"],
+        "name": "Iron Head",
+        "damage": "50+",
+        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #115",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Kyoko Umemoto",
+    "crafting_cost": 35
+  },
+  {
+    "id": "116",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_116_EN.webp",
+    "hp": "60",
+    "name": "Bronzor",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Colorless"],
+        "name": "Tackle",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #116",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Miki Tanaka",
+    "crafting_cost": 35
+  },
+  {
+    "id": "117",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_117_EN.webp",
+    "hp": "120",
+    "name": "Bronzong",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Colorless"],
+        "name": "Guard Press",
+        "damage": "60",
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #117",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Yuka Morii",
+    "crafting_cost": 70
+  },
+  {
+    "id": "118",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_118_EN.webp",
+    "hp": "130",
+    "name": "Probopass",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Metal", "Colorless"],
+        "name": "Triple Nose",
+        "damage": "30+",
+        "effect": "Flip 3 coins. This attack does 50 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "4",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #118",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "MAHOU",
+    "crafting_cost": 70
+  },
+  {
+    "id": "119",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_119_EN.webp",
+    "hp": "150",
+    "name": "Dialga ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal"],
+        "name": "Metallic Turbo",
+        "damage": "30",
+        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      },
+      {
+        "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+        "name": "Heavy Impact",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #119",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #188",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #205",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #207",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 500
+  },
+  {
+    "id": "120",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_120_EN.webp",
+    "hp": "120",
+    "name": "Heatran",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Metal"],
+        "name": "Steel Tackle",
+        "damage": "110",
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #120",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #174",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Oswaldo KATO",
+    "crafting_cost": 150
+  },
+  {
+    "id": "121",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_121_EN.webp",
+    "hp": "60",
+    "name": "Gible",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Gnaw",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "none",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #121",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 35
+  },
+  {
+    "id": "122",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_122_EN.webp",
+    "hp": "90",
+    "name": "Gabite",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Fighting"],
+        "name": "Slash",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "none",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #122",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Shigenori Negishi",
+    "crafting_cost": 70
+  },
+  {
+    "id": "123",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_123_EN.webp",
+    "hp": "140",
+    "name": "Garchomp",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Water", "Fighting"],
+        "name": "Dragon Claw",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Reckless Shearing",
+      "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
+    },
+    "weakness": "none",
+    "retreat": "1",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #123",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #175",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Atsushi Furusawa",
+    "crafting_cost": 150
+  },
+  {
+    "id": "124",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_124_EN.webp",
+    "hp": "80",
+    "name": "Lickitung",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Tongue Slap",
+        "damage": "50",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #124",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Yukiko Baba",
+    "crafting_cost": 35
+  },
+  {
+    "id": "125",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_125_EN.webp",
+    "hp": "160",
+    "name": "Lickilicky ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+        "name": "Licking Fury",
+        "damage": "100+",
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "4",
+    "rarity": "◊◊◊◊",
+    "fullart": "No",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #125",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #189",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #203",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Igarashi",
+    "crafting_cost": 500
+  },
+  {
+    "id": "126",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_126_EN.webp",
+    "hp": "60",
+    "name": "Eevee",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Quick Attack",
+        "damage": "10+",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #126",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shibuzoh.",
+    "crafting_cost": 35
+  },
+  {
+    "id": "127",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_127_EN.webp",
+    "hp": "60",
+    "name": "Porygon",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Beam",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #127",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Shin Nagasawa",
+    "crafting_cost": 35
+  },
+  {
+    "id": "128",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_128_EN.webp",
+    "hp": "80",
+    "name": "Porygon2",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Sharpen",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #128",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "sowsow",
+    "crafting_cost": 70
+  },
+  {
+    "id": "129",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_129_EN.webp",
+    "hp": "140",
+    "name": "Porygon-Z",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Buggy Beam",
+        "damage": "80",
+        "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: [G],[R],[W],[L],[P],[F],[D], or [M]."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #129",
+        "rarity": "◊◊◊"
+      }
+    ],
+    "artist": "Shin Nagasawa",
+    "crafting_cost": 150
+  },
+  {
+    "id": "130",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_130_EN.webp",
+    "hp": "60",
+    "name": "Aipom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Tail Jab",
+        "damage": "20",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #130",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Miki Tanaka",
+    "crafting_cost": 35
+  },
+  {
+    "id": "131",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_131_EN.webp",
+    "hp": "90",
+    "name": "Ambipom",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Double Hit",
+        "damage": "40x",
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #131",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Naoyo Kimura",
+    "crafting_cost": 35
+  },
+  {
+    "id": "132",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_132_EN.webp",
+    "hp": "50",
+    "name": "Starly",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Pluck",
+        "damage": "20",
+        "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #132",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Atsuko Nishida",
+    "crafting_cost": 35
+  },
+  {
+    "id": "133",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_133_EN.webp",
+    "hp": "80",
+    "name": "Staravia",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Wing Attack",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #133",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "REND",
+    "crafting_cost": 35
+  },
+  {
+    "id": "134",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_134_EN.webp",
+    "hp": "140",
+    "name": "Staraptor",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Clutch",
+        "damage": "80",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #134",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #176",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Sekio",
+    "crafting_cost": 70
+  },
+  {
+    "id": "135",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_135_EN.webp",
+    "hp": "60",
+    "name": "Bidoof",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Super",
+        "damage": "Fang",
+        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #135",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #177",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Kagemaru Himeno",
+    "crafting_cost": 35
+  },
+  {
+    "id": "136",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_136_EN.webp",
+    "hp": "110",
+    "name": "Bibarel",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Rolling Tackle",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #136",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "kirisAki",
+    "crafting_cost": 35
+  },
+  {
+    "id": "137",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_137_EN.webp",
+    "hp": "60",
+    "name": "Buneary",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Splash",
+        "damage": "10",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #137",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Narumi Sato",
+    "crafting_cost": 35
+  },
+  {
+    "id": "138",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_138_EN.webp",
+    "hp": "90",
+    "name": "Lopunny",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Jump Kick",
+        "damage": "20",
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #138",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Sanosuke Sakuma",
+    "crafting_cost": 35
+  },
+  {
+    "id": "139",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_139_EN.webp",
+    "hp": "60",
+    "name": "Glameow",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Pose",
+        "damage": "40",
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #139",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #178",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "sowsow",
+    "crafting_cost": 35
+  },
+  {
+    "id": "140",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_140_EN.webp",
+    "hp": "110",
+    "name": "Purugly",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Interrupt",
+        "damage": "60",
+        "effect": "Your opponent reveals their hand. Choose a card you find there and shuffle it into your opponent's deck."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "3",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #140",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Kagemaru Himeno",
+    "crafting_cost": 70
+  },
+  {
+    "id": "141",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.webp",
+    "hp": "70",
+    "name": "Chatot",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Fury Attack",
+        "damage": "20x",
+        "effect": "Flip 3 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #141",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "HYOGONOSUKE",
+    "crafting_cost": 35
+  },
+  {
+    "id": "142",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_142_EN.webp",
+    "hp": "80",
+    "name": "Fan Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Spin",
+        "damage": "Storm",
+        "effect": "Flip a coin. If heads, put your opponent's Active Pokémon into their hand."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #142",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Masakazu Fukuda",
+    "crafting_cost": 35
+  },
+  {
+    "id": "143",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_143_EN.webp",
+    "hp": "140",
+    "name": "Regigigas",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+        "name": "Raging Hammer",
+        "damage": "50+",
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "4",
+    "rarity": "◊◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #143",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #179",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Tomokazu Komiya",
+    "crafting_cost": 150
+  },
+  {
+    "id": "144",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_144_EN.webp",
+    "hp": "Unknown",
+    "name": "Skull Fossil",
+    "card_type": "Trainer",
+    "evolution_type": "Item",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #144",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "crafting_cost": 35
+  },
+  {
+    "id": "145",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_145_EN.webp",
+    "hp": "Unknown",
+    "name": "Armor Fossil",
+    "card_type": "Trainer",
+    "evolution_type": "Item",
+    "attacks": [],
+    "ability": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #145",
+        "rarity": "◊"
+      }
+    ],
+    "artist": "Toyste Beach",
+    "crafting_cost": 35
+  },
+  {
+    "id": "146",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_146_EN.webp",
+    "hp": "Unknown",
+    "name": "Pokémon Communication",
+    "card_type": "Trainer",
+    "evolution_type": "Item",
+    "attacks": [],
+    "ability": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ayaka Yoshida",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #146",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ayaka Yoshida",
+    "crafting_cost": 70
+  },
+  {
+    "id": "147",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_147_EN.webp",
+    "hp": "Unknown",
+    "name": "Giant Cape",
+    "card_type": "Trainer",
+    "evolution_type": "Tool",
+    "attacks": [],
+    "ability": "The Pokémon this card is attached to gets +20 HP.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryo Ueda",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #147",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ryo Ueda",
+    "crafting_cost": 70
+  },
+  {
+    "id": "148",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_148_EN.webp",
+    "hp": "Unknown",
+    "name": "Rocky Helmet",
+    "card_type": "Trainer",
+    "evolution_type": "Tool",
+    "attacks": [],
+    "ability": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ayaka Yoshida",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #148",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Ayaka Yoshida",
+    "crafting_cost": 70
+  },
+  {
+    "id": "149",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_149_EN.webp",
+    "hp": "Unknown",
+    "name": "Lum Berry",
+    "card_type": "Trainer",
+    "evolution_type": "Tool",
+    "attacks": [],
+    "ability": "At the end of each turn, if the Pokémon this card is attached to is affected by any Special Conditions, it recovers from all of them, and discard this card.\n\n            \n                    \n    \n            Illustrated by \n            \n                Yoshinobu Saito",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #149",
+        "rarity": "◊◊"
+      }
+    ],
+    "artist": "Yoshinobu Saito",
+    "crafting_cost": 70
+  },
+  {
+    "id": "150",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_150_EN.webp",
+    "hp": "Unknown",
+    "name": "Cyrus",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.\n\n            \n                    \n    \n            Illustrated by \n            \n                akagi",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "crafting_cost": 70
+  },
+  {
+    "id": "151",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_151_EN.webp",
+    "hp": "Unknown",
+    "name": "Team Galactic Grunt",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.\n\n            \n                    \n    \n            Illustrated by \n            \n                GOSSAN",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "crafting_cost": 70
+  },
+  {
+    "id": "152",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_152_EN.webp",
+    "hp": "Unknown",
+    "name": "Cynthia",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryuta Fuse",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "crafting_cost": 70
+  },
+  {
+    "id": "153",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_153_EN.webp",
+    "hp": "Unknown",
+    "name": "Volkner",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Choose 1 of your Electivire or Luxray. Attach 2 [L] Energy from your discard pile to that Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                GIDORA",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #193",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GIDORA",
+    "crafting_cost": 70
+  },
+  {
+    "id": "154",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_154_EN.webp",
+    "hp": "Unknown",
+    "name": "Dawn",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                saino misaki",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "crafting_cost": 70
+  },
+  {
+    "id": "155",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_155_EN.webp",
+    "hp": "Unknown",
+    "name": "Mars",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.\n\n            \n                    \n    \n            Illustrated by \n            \n                Yuu Nishida",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "◊◊",
+    "fullart": "No",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "crafting_cost": 70
+  },
+  {
+    "id": "156",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_156_EN.webp",
+    "hp": "130",
+    "name": "Tangrowth",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Grass", "Colorless"],
+        "name": "Mega Drain",
+        "damage": "90",
+        "effect": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #5",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #156",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Saboteri",
+    "crafting_cost": 400
+  },
+  {
+    "id": "157",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_157_EN.webp",
+    "hp": "50",
+    "name": "Combee",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Call for",
+        "damage": "Family",
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #17",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #157",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Shibuzoh.",
+    "crafting_cost": 400
+  },
+  {
+    "id": "158",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_158_EN.webp",
+    "hp": "90",
+    "name": "Carnivine",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Grass", "Colorless"],
+        "name": "Flog",
+        "damage": "40+",
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #19",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #158",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Yoriyuki Ikegami",
+    "crafting_cost": 400
+  },
+  {
+    "id": "159",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_159_EN.webp",
+    "hp": "60",
+    "name": "Shaymin",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Grass", "Colorless"],
+        "name": "Flop",
+        "damage": "30",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Fragrant Flower Garden",
+      "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
+    },
+    "weakness": "Fire",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #22",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #159",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "REND",
+    "crafting_cost": 400
+  },
+  {
+    "id": "160",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_160_EN.webp",
+    "hp": "160",
+    "name": "Mamoswine",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Water", "Water", "Colorless", "Colorless"],
+        "name": "Frosty Flattening",
+        "damage": "120",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Thick Fat",
+      "effect": "This Pokémon takes −30 damage from attacks from  or  Pokémon."
+    },
+    "weakness": "Metal",
+    "retreat": "4",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #33",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #160",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "OKACHEKE",
+    "crafting_cost": 400
+  },
+  {
+    "id": "161",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_161_EN.webp",
+    "hp": "120",
+    "name": "Gastrodon",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Water", "Colorless", "Colorless"],
+        "name": "Muddy Water",
+        "damage": "60",
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "3",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #41",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #161",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "takashi shiraishi",
+    "crafting_cost": 400
+  },
+  {
+    "id": "162",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_162_EN.webp",
+    "hp": "50",
+    "name": "Manaphy",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Oceanic",
+        "damage": "Gift",
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #50",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #162",
+        "rarity": "☆"
+      },
+      {
+        "version": "Promo-A #48",
+        "rarity": ""
+      }
+    ],
+    "artist": "miki kudo",
+    "crafting_cost": 400
+  },
+  {
+    "id": "163",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_163_EN.webp",
+    "hp": "60",
+    "name": "Shinx",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning"],
+        "name": "Unknown",
+        "damage": "Hide",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #58",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #163",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "crafting_cost": 400
+  },
+  {
+    "id": "164",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_164_EN.webp",
+    "hp": "70",
+    "name": "Rotom",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Assault Laser",
+        "damage": "20+",
+        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #62",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #164",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Shimaris Yukichi",
+    "crafting_cost": 400
+  },
+  {
+    "id": "165",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_165_EN.webp",
+    "hp": "50",
+    "name": "Drifloon",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic"],
+        "name": "Expand",
+        "damage": "10",
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #73",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #165",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Orca",
+    "crafting_cost": 400
+  },
+  {
+    "id": "166",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_166_EN.webp",
+    "hp": "70",
+    "name": "Mesprit",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic", "Psychic"],
+        "name": "Supreme Blast",
+        "damage": "160",
+        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #76",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #166",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Orca",
+    "crafting_cost": 400
+  },
+  {
+    "id": "167",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_167_EN.webp",
+    "hp": "120",
+    "name": "Giratina",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic", "Colorless"],
+        "name": "Spooky Shot",
+        "damage": "70",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Levitate",
+      "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+    },
+    "weakness": "Darkness",
+    "retreat": "3",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #78",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #167",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Rond",
+    "crafting_cost": 400
+  },
+  {
+    "id": "168",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_168_EN.webp",
+    "hp": "110",
+    "name": "Cresselia",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Moonlight Gain",
+        "damage": "50",
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "2",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #79",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #168",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "rika",
+    "crafting_cost": 400
+  },
+  {
+    "id": "169",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_169_EN.webp",
+    "hp": "160",
+    "name": "Rhyperior",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+        "name": "Mountain Swing",
+        "damage": "150",
+        "effect": "Discard the top 3 cards of your deck."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "4",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #82",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #169",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Taiga Kayama",
+    "crafting_cost": 400
+  },
+  {
+    "id": "170",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_170_EN.webp",
+    "hp": "100",
+    "name": "Lucario",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Submarine Blow",
+        "damage": "40",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Fighting Coach",
+      "effect": "Attacks used by your  Pokémon do +20 damage to your opponent's Active Pokémon."
+    },
+    "weakness": "Psychic",
+    "retreat": "2",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #92",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #170",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Akira Komayama",
+    "crafting_cost": 400
+  },
+  {
+    "id": "171",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_171_EN.webp",
+    "hp": "80",
+    "name": "Hippopotas",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting", "Colorless"],
+        "name": "Rolling Tackle",
+        "damage": "60",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "3",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #93",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #171",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Teeziro",
+    "crafting_cost": 400
+  },
+  {
+    "id": "172",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_172_EN.webp",
+    "hp": "80",
+    "name": "Spiritomb",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Swirling",
+        "damage": "Disaster",
+        "effect": "This attack does 10 damage to each of your opponent's Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #104",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #172",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Shinji Kanda",
+    "crafting_cost": 400
+  },
+  {
+    "id": "173",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_173_EN.webp",
+    "hp": "60",
+    "name": "Croagunk",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness"],
+        "name": "Group Beatdown",
+        "damage": "20x",
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #107",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #173",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "crafting_cost": 400
+  },
+  {
+    "id": "174",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_174_EN.webp",
+    "hp": "120",
+    "name": "Heatran",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal", "Metal"],
+        "name": "Steel Tackle",
+        "damage": "110",
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "3",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #120",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #174",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "OKUBO",
+    "crafting_cost": 400
+  },
+  {
+    "id": "175",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_175_EN.webp",
+    "hp": "140",
+    "name": "Garchomp",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Water", "Fighting"],
+        "name": "Dragon Claw",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Reckless Shearing",
+      "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
+    },
+    "weakness": "none",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #123",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #175",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "MINAMINAMI Take",
+    "crafting_cost": 400
+  },
+  {
+    "id": "176",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_176_EN.webp",
+    "hp": "140",
+    "name": "Staraptor",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Clutch",
+        "damage": "80",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #134",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #176",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Ryota Murayama",
+    "crafting_cost": 400
+  },
+  {
+    "id": "177",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_177_EN.webp",
+    "hp": "60",
+    "name": "Bidoof",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless"],
+        "name": "Super",
+        "damage": "Fang",
+        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "2",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #135",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #177",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Shinya Komatsu",
+    "crafting_cost": 400
+  },
+  {
+    "id": "178",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_178_EN.webp",
+    "hp": "60",
+    "name": "Glameow",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless"],
+        "name": "Pose",
+        "damage": "40",
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #139",
+        "rarity": "◊"
+      },
+      {
+        "version": "Space-Time Smackdown #178",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "matazo",
+    "crafting_cost": 400
+  },
+  {
+    "id": "179",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_179_EN.webp",
+    "hp": "140",
+    "name": "Regigigas",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+        "name": "Raging Hammer",
+        "damage": "50+",
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "4",
+    "rarity": "☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #143",
+        "rarity": "◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #179",
+        "rarity": "☆"
+      }
+    ],
+    "artist": "Tetsu Kayama",
+    "crafting_cost": 400
+  },
+  {
+    "id": "180",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_180_EN.webp",
+    "hp": "140",
+    "name": "Yanmega ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Air Slash",
+        "damage": "120",
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #7",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #180",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #196",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "181",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_181_EN.webp",
+    "hp": "170",
+    "name": "Infernape ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fire", "Fire"],
+        "name": "Flare Blitz",
+        "damage": "140",
+        "effect": "Discard all [R] Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "0",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #29",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #181",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #197",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "182",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_182_EN.webp",
+    "hp": "150",
+    "name": "Palkia ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Slash",
+        "damage": "30",
+        "effect": "No effect"
+      },
+      {
+        "cost": ["Water", "Water", "Water", "Colorless"],
+        "name": "Dimensional Storm",
+        "damage": "150",
+        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #49",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #182",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #204",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #206",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "183",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_183_EN.webp",
+    "hp": "120",
+    "name": "Pachirisu ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Sparking Gadget",
+        "damage": "40+",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #61",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #183",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #198",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "184",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_184_EN.webp",
+    "hp": "140",
+    "name": "Mismagius ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Magical Delusion",
+        "damage": "70",
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #67",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #184",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #199",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "185",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_185_EN.webp",
+    "hp": "170",
+    "name": "Gallade ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Energized Blade",
+        "damage": "70+",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Psychic",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #95",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #185",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #200",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "186",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_186_EN.webp",
+    "hp": "140",
+    "name": "Weavile ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Scratching Nails",
+        "damage": "30+",
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #99",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #186",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #201",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "187",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_187_EN.webp",
+    "hp": "140",
+    "name": "Darkrai ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "name": "Dark Prism",
+        "damage": "80",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #110",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #187",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #202",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Promo-A #42",
+        "rarity": ""
+      }
+    ],
+    "artist": "PLANETA Yamashita",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "188",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_188_EN.webp",
+    "hp": "150",
+    "name": "Dialga ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal"],
+        "name": "Metallic Turbo",
+        "damage": "30",
+        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      },
+      {
+        "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+        "name": "Heavy Impact",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #119",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #188",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #205",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #207",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "189",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_189_EN.webp",
+    "hp": "160",
+    "name": "Lickilicky ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+        "name": "Licking Fury",
+        "damage": "100+",
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "4",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #125",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #189",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #203",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "PLANETA Tsuji",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "190",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_190_EN.webp",
+    "hp": "Unknown",
+    "name": "Cyrus",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.\n\n            \n                    \n    \n            Illustrated by \n            \n                akagi",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #150",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #190",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "akagi",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "191",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_191_EN.webp",
+    "hp": "Unknown",
+    "name": "Team Galactic Grunt",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.\n\n            \n                    \n    \n            Illustrated by \n            \n                GOSSAN",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #151",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #191",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GOSSAN",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "192",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_192_EN.webp",
+    "hp": "Unknown",
+    "name": "Cynthia",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryuta Fuse",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #152",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #192",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Ryuta Fuse",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "193",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_193_EN.webp",
+    "hp": "Unknown",
+    "name": "Volkner",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Choose 1 of your Electivire or Luxray. Attach 2 [L] Energy from your discard pile to that Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                GIDORA",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #153",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #193",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "GIDORA",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "194",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_194_EN.webp",
+    "hp": "Unknown",
+    "name": "Dawn",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                saino misaki",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #154",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #194",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "saino misaki",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "195",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_195_EN.webp",
+    "hp": "Unknown",
+    "name": "Mars",
+    "card_type": "Trainer",
+    "evolution_type": "Supporter",
+    "attacks": [],
+    "ability": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.\n\n            \n                    \n    \n            Illustrated by \n            \n                Yuu Nishida",
+    "weakness": "N/A",
+    "retreat": "N/A",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "No",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #155",
+        "rarity": "◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #195",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Yuu Nishida",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "196",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_196_EN.webp",
+    "hp": "140",
+    "name": "Yanmega ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless"],
+        "name": "Air Slash",
+        "damage": "120",
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #7",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #180",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #196",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Mina Nakai",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "197",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_197_EN.webp",
+    "hp": "170",
+    "name": "Infernape ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fire", "Fire"],
+        "name": "Flare Blitz",
+        "damage": "140",
+        "effect": "Discard all [R] Energy from this Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Water",
+    "retreat": "0",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #29",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #181",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #197",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "nagimiso",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "198",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_198_EN.webp",
+    "hp": "120",
+    "name": "Pachirisu ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Lightning", "Lightning"],
+        "name": "Sparking Gadget",
+        "damage": "40+",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #61",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #183",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #198",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Nurikabe",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "199",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_199_EN.webp",
+    "hp": "140",
+    "name": "Mismagius ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Psychic", "Psychic"],
+        "name": "Magical Delusion",
+        "damage": "70",
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Darkness",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #67",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #184",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #199",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Kuroimori",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "200",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_200_EN.webp",
+    "hp": "170",
+    "name": "Gallade ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 2",
+    "attacks": [
+      {
+        "cost": ["Fighting", "Fighting"],
+        "name": "Energized Blade",
+        "damage": "70+",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Psychic",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #95",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #185",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #200",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Takumi Wada",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "201",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_201_EN.webp",
+    "hp": "140",
+    "name": "Weavile ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Darkness"],
+        "name": "Scratching Nails",
+        "damage": "30+",
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Grass",
+    "retreat": "1",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #99",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #186",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #201",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "hncl",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "202",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_202_EN.webp",
+    "hp": "140",
+    "name": "Darkrai ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Darkness", "Darkness", "Colorless"],
+        "name": "Dark Prism",
+        "damage": "80",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "Nightmare Aura",
+      "effect": "Whenever you attach a  Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+    },
+    "weakness": "Grass",
+    "retreat": "2",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #110",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #187",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #202",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Promo-A #42",
+        "rarity": ""
+      }
+    ],
+    "artist": "Oswaldo KATO",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "203",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_203_EN.webp",
+    "hp": "160",
+    "name": "Lickilicky ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Stage 1",
+    "attacks": [
+      {
+        "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+        "name": "Licking Fury",
+        "damage": "100+",
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fighting",
+    "retreat": "4",
+    "rarity": "☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #125",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #189",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #203",
+        "rarity": "☆☆"
+      }
+    ],
+    "artist": "Jerky",
+    "crafting_cost": 1250
+  },
+  {
+    "id": "204",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_204_EN.webp",
+    "hp": "150",
+    "name": "Palkia ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Slash",
+        "damage": "30",
+        "effect": "No effect"
+      },
+      {
+        "cost": ["Water", "Water", "Water", "Colorless"],
+        "name": "Dimensional Storm",
+        "damage": "150",
+        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "☆☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Palkia pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #49",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #182",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #204",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #206",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "N-DESIGN Inc.",
+    "crafting_cost": 1500
+  },
+  {
+    "id": "205",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_205_EN.webp",
+    "hp": "150",
+    "name": "Dialga ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal"],
+        "name": "Metallic Turbo",
+        "damage": "30",
+        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      },
+      {
+        "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+        "name": "Heavy Impact",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "☆☆☆",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Dialga pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #119",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #188",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #205",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #207",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "N-DESIGN Inc.",
+    "crafting_cost": 1500
+  },
+  {
+    "id": "206",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_206_EN.webp",
+    "hp": "150",
+    "name": "Palkia ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Water"],
+        "name": "Slash",
+        "damage": "30",
+        "effect": "No effect"
+      },
+      {
+        "cost": ["Water", "Water", "Water", "Colorless"],
+        "name": "Dimensional Storm",
+        "damage": "150",
+        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Lightning",
+    "retreat": "2",
+    "rarity": "Crown Rare",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #49",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #182",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #204",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #206",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": "Unknown"
+  },
+  {
+    "id": "207",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_207_EN.webp",
+    "hp": "150",
+    "name": "Dialga ex",
+    "card_type": "Pokémon",
+    "evolution_type": "Basic",
+    "attacks": [
+      {
+        "cost": ["Metal", "Metal"],
+        "name": "Metallic Turbo",
+        "damage": "30",
+        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      },
+      {
+        "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+        "name": "Heavy Impact",
+        "damage": "100",
+        "effect": "No effect"
+      }
+    ],
+    "ability": {
+      "name": "No ability",
+      "effect": "N/A"
+    },
+    "weakness": "Fire",
+    "retreat": "2",
+    "rarity": "Crown Rare",
+    "fullart": "Yes",
+    "ex": "Yes",
+    "set_details": "Space-Time Smackdown  (A2)",
+    "pack": "Every pack",
+    "alternate_versions": [
+      {
+        "version": "Space-Time Smackdown #119",
+        "rarity": "◊◊◊◊"
+      },
+      {
+        "version": "Space-Time Smackdown #188",
+        "rarity": "☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #205",
+        "rarity": "☆☆☆"
+      },
+      {
+        "version": "Space-Time Smackdown #207",
+        "rarity": "♛"
+      }
+    ],
+    "artist": "PLANETA CG Works",
+    "crafting_cost": "Unknown"
+  }
+]
