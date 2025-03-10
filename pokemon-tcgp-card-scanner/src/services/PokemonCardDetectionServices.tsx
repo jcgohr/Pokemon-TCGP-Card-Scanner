@@ -27,7 +27,7 @@ class PokemonCardDetectorService {
     return PokemonCardDetectorService.instance
   }
 
-  public async loadModel(modelPath = '/model/model.json'): Promise<void> {
+  public async loadModel(modelPath = `${import.meta.env.BASE_URL}model/model.json`): Promise<void> {
     if (this.model) {
       return
     }

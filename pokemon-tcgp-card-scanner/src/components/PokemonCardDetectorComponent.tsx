@@ -34,7 +34,7 @@ interface ExtractedCard {
   selected?: boolean
 }
 
-const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionComplete, modelPath = '/model/model.json' }) => {
+const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionComplete, modelPath = `${import.meta.env.BASE_URL}model/model.json` }) => {
 
   const [isOpen, setIsOpen] = useState(false)
   const [_images, setImages] = useState<File[]>([])
@@ -102,7 +102,7 @@ const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionCo
                 }
 
                 // Calculate new hash only if it doesn't exist
-                const hash = await hashingService.calculatePerceptualHash(`/images/${card.image?.split('/').at(-1)}`)
+                const hash = await hashingService.calculatePerceptualHash(`${import.meta.env.BASE_URL}images/${card.image?.split('/').at(-1)}`)
                 return { id: card.card_id, hash }
               } catch (error) {
                 console.error(`Error generating hash for card ${card.card_id}:`, error)
@@ -195,7 +195,7 @@ const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionCo
                   ? {
                       id: bestMatch.id,
                       distance: bestMatch.distance,
-                      imageUrl: `/images/${bestMatch.card.image?.split('/').at(-1)}`,
+                      imageUrl: `${import.meta.env.BASE_URL}images/${bestMatch.card.image?.split('/').at(-1)}`,
                     }
                   : undefined,
                 topMatches,
@@ -290,7 +290,7 @@ const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionCo
             matchedCard: {
               id: newMatch.id,
               distance: newMatch.distance,
-              imageUrl: `/images/${newMatch.card.image?.split('/').at(-1)}`,
+              imageUrl: `${import.meta.env.BASE_URL}images/${newMatch.card.image?.split('/').at(-1)}`,
             },
           }
         }
@@ -361,7 +361,7 @@ const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionCo
                       }}
                       title={match.card.name}
                     >
-                      <img src={`/images/${match.card.image?.split('/').at(-1)}`} alt={match.card.name} className="w-full h-auto object-contain" />
+                      <img src={`${import.meta.env.BASE_URL}images/${match.card.image?.split('/').at(-1)}`} alt={match.card.name} className="w-full h-auto object-contain" />
                       <div className="text-xs text-center mt-1 bg-black/60 text-white py-0.5 rounded">{(100 - (match.distance / 128) * 100).toFixed(0)}%</div>
                     </div>
                   ))}
