@@ -10,6 +10,7 @@ import type { Card } from '../types'
 import { MinusIcon, PlusIcon } from 'lucide-react'
 import type React from 'react'
 import { useEffect, useMemo, useRef, useState } from 'react'
+import confetti from 'canvas-confetti'
 
 
 interface PokemonCardDetectorProps {
@@ -312,27 +313,41 @@ const PokemonCardDetector: React.FC<PokemonCardDetectorProps> = ({ onDetectionCo
     }
   }
 
-  const handleConfirm = async () => {
-    setIsProcessing(true)
+const handleConfirm = async () => {
+  setIsProcessing(true)
 
-    const cardIds = extractedCards.filter((card) => card.selected && card.matchedCard).map((card) => card.matchedCard?.id)
+  const selectedCards = extractedCards.filter((card) => card.selected && card.matchedCard)
 
-    if (cardIds.length > 0) {
-      try {
-        console.log(cardIds)
-        setIsOpen(false)
-        setExtractedCards([])
-        setResults([])
-        setImages([])
-        setAmount(1)
-        setShowPotentialMatches(false)
-      } catch (error) {
-        console.error('Error incrementing card quantities:', error)
-      }
+  if (selectedCards.length > 0) {
+    try {
+      // Lanciamo confetti generici colorati per ogni carta selezionata
+      selectedCards.forEach((card, index) => {
+        setTimeout(() => {
+          confetti({
+            particleCount: 150,
+            spread: 120,
+            origin: { y: 0.6, x: 0.5 + (Math.random() * 0.4 - 0.2) },
+            colors: ['#f44336', '#e91e63', '#9c27b0', '#673ab7', '#3f51b5', '#2196f3', '#03a9f4', '#00bcd4', '#ffeb3b', '#ff9800'],
+            scalar: 1.5,
+            shapes: ['circle', 'square'],
+            ticks: 300
+          });
+        }, index * 300);
+      });
+
+      setIsOpen(false)
+      setExtractedCards([])
+      setResults([])
+      setImages([])
+      setAmount(1)
+      setShowPotentialMatches(false)
+    } catch (error) {
+      console.error('Error processing cards:', error)
     }
-
-    setIsProcessing(false)
   }
+
+  setIsProcessing(false)
+}
 
   const renderPotentialMatches = (card: ExtractedCard, index: number) => {
     return (
