@@ -28,7 +28,9 @@ For training, I created a robust synthetic dataset using a custom script called 
   - Color augmentation
   - Image noise
   - Overlapping objects
+  - Some random grids generated images
 - Saves the generated images along with their bounding box data in the appropriate YOLO format
+<img width="672" alt="image" src="https://github.com/user-attachments/assets/2d1055da-f2b6-493c-81ea-b0dc57aaec41" />
 
 This approach ensured the model would generalize well even in challenging scenarios, such as cluttered or distorted screenshots. 
 
