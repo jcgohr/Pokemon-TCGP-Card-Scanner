@@ -30,7 +30,7 @@ For training, I created a robust synthetic dataset using a custom script called 
   - Overlapping objects
   - Some random grids generated images
 - Saves the generated images along with their bounding box data in the appropriate YOLO format
-<img width="672" alt="image" src="https://github.com/user-attachments/assets/2d1055da-f2b6-493c-81ea-b0dc57aaec41" />
+<p align="center"><img width="672" alt="image" src="https://github.com/user-attachments/assets/2d1055da-f2b6-493c-81ea-b0dc57aaec41" /></p>
 
 This approach ensured the model would generalize well even in challenging scenarios, such as cluttered or distorted screenshots. 
 
@@ -46,7 +46,7 @@ I integrated the trained YOLO11 Nano OBB model into the React frontend using **T
 The bounding boxes provided precise locations and orientations of the detected cards, enabling accurate cropping of card images for the next phase of processing.
 
 **5. Hash Matching and Optimization:**  
-Once the card bounding boxes were identified, I implemented a **32-bit perceptual hash** algorithm for card recognition. To enhance efficiency:
+Once the card bounding boxes were identified, I implemented a **24-bit perceptual hash** algorithm for card recognition. To enhance efficiency:
 - Precomputed hashes were stored in **IndexedDB** to avoid regenerating them repeatedly
 - Implemented a **service worker cache** for faster image retrieval
 
@@ -58,13 +58,41 @@ One of the most significant benefits of this approach is its long-term maintaina
 This ensures the feature remains fully functional and scalable, even as the Pokémon card collection grows.
 
 
-https://github.com/user-attachments/assets/fee7ac03-a995-4bdc-98a1-f64b6856a97b
+
+
+<p align="center" >https://github.com/user-attachments/assets/3b761015-12d8-4eab-aac2-b4ce7214d8af</p>
+
 
 
 
 
 ---
-![image](https://github.com/user-attachments/assets/df22531f-a535-47e9-b20a-2e0aca44455c)
+## Customization and Future Updates
+
+You can **adjust the hash length** to balance between recognition accuracy and performance. Additionally, there are two important thresholds you can tweak:
+- **Card detection threshold**: Currently set to `0.1`, this defines the sensitivity of the card detection process.
+- **Card matching threshold**: This value determines how closely a detected card needs to match an image in the database.
+
+### A Self-Sufficient but Static Component
+
+This component is **fully autonomous** and works as long as the card images exist in the database. However, it won’t automatically update with newly released Pokémon cards. If you plan to integrate this into an app and want future cards to be recognized, you’ll need to **update the card JSON files and corresponding images**. 
+
+All the necessary files can be found right here in the repo — no need to search anywhere else. And hey, if you hit a snag or have questions, feel free to **reach out anytime**. I’m happy to help!
+
+### Getting Started
+
+Ready to dive in? Here’s how to run the project:
+
+```bash
+git clone https://github.com/1vcian/Pokemon-TCGP-Card-Scanner
+cd tcg-pocket-collection-tracker
+npm install
+npm run dev
+```
+That’s it! You’ll be up and running in no time.
+
+Thanks a ton for checking out this project — happy coding and happy collecting! Catch 'em all! 🎉
+<p align="center"><img width="672" alt="image" src="https://github.com/user-attachments/assets/df22531f-a535-47e9-b20a-2e0aca44455c"></p>
 
 **Repo:** [TCG Pocket Collection Tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker)
 
