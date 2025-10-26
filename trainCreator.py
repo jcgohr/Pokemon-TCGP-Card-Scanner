@@ -33,8 +33,24 @@ def get_card_files(cards_dir):
 
 def get_background_files(backgrounds_dir):
     """Gets the list of background files."""
-    return [os.path.join(backgrounds_dir, f) for f in os.listdir(backgrounds_dir) 
+    return [os.path.join(backgrounds_dir, f) for f in os.listdir(backgrounds_dir)
             if f.lower().endswith(('.png', '.jpg', '.jpeg', '.webp'))]
+
+def preload_images(file_paths, description="images"):
+    """
+    Preloads all images from file paths into memory.
+    Returns a list of PIL Image objects.
+    """
+    print(f"Preloading {len(file_paths)} {description}...")
+    images = []
+    for file_path in tqdm(file_paths, desc=f"Loading {description}"):
+        try:
+            img = Image.open(file_path).convert("RGBA")
+            images.append(img)
+        except Exception as e:
+            print(f"Warning: Could not load {file_path}: {e}")
+    print(f"✓ Successfully loaded {len(images)} {description}")
+    return images
 
 def calculate_iou(box1, box2):
     """
@@ -267,12 +283,14 @@ def place_card_on_background(card_img, bg_img, existing_boxes=None, max_attempts
     
     return result_img, yolo_bbox, pixel_bbox
 
-def generate_dataset_image(cards_files, backgrounds_files, idx, save_dir, labels_dir, cards_per_image=None, flip_cards=False):
+def generate_dataset_image(cards_images, backgrounds_images, idx, save_dir, labels_dir, cards_per_image=None, flip_cards=False):
     """
     Generates a dataset image with multiple Pokemon cards on a background.
     Saves the image and corresponding label file.
 
     Args:
+        cards_images: List of preloaded card Image objects
+        backgrounds_images: List of preloaded background Image objects
         flip_cards: If True, rotates cards 90 degrees clockwise before placement
     """
     if cards_per_image is None:
@@ -291,10 +309,9 @@ def generate_dataset_image(cards_files, backgrounds_files, idx, save_dir, labels
     else:
         use_grid = False
     
-    # Select a random background
-    bg_file = random.choice(backgrounds_files)
-    bg_img = Image.open(bg_file).convert("RGBA")
-    
+    # Select a random background and make a copy
+    bg_img = random.choice(backgrounds_images).copy()
+
     # Resize background to a standard size for YOLO
     target_size = (640, 640)  # standard size for YOLO dataset
     bg_img = bg_img.resize(target_size, Image.LANCZOS)
@@ -317,9 +334,8 @@ def generate_dataset_image(cards_files, backgrounds_files, idx, save_dir, labels
         
         for row in range(grid_rows):
             for col in range(grid_cols):
-                # Select a random card
-                card_file = random.choice(cards_files)
-                card_img = Image.open(card_file).convert("RGBA")
+                # Select a random card and make a copy
+                card_img = random.choice(cards_images).copy()
 
                 # Flip card 90 degrees clockwise if requested
                 if flip_cards:
@@ -370,9 +386,8 @@ def generate_dataset_image(cards_files, backgrounds_files, idx, save_dir, labels
     else:
         # Use original random placement
         for _ in range(cards_per_image):
-            # Select a random card
-            card_file = random.choice(cards_files)
-            card_img = Image.open(card_file).convert("RGBA")
+            # Select a random card and make a copy
+            card_img = random.choice(cards_images).copy()
 
             # Flip card 90 degrees clockwise if requested
             if flip_cards:
@@ -527,6 +542,8 @@ def main():
                         help='Directory containing Pokemon card images (default: carte_pokemon)')
     parser.add_argument('--backgrounds-dir', type=str, default='background',
                         help='Directory containing background images (default: background)')
+    parser.add_argument('--max-cards', type=int, default=None,
+                        help='Maximum number of card images to load into memory (default: load all)')
     args = parser.parse_args()
 
     print("Generating YOLO dataset for Pokemon card detection")
@@ -547,12 +564,21 @@ def main():
     # Get files
     cards_files = get_card_files(cards_dir)
     backgrounds_files = get_background_files(backgrounds_dir)
-    
+
     if not cards_files:
         raise ValueError(f"No images found in folder {cards_dir}")
     if not backgrounds_files:
         raise ValueError(f"No images found in folder {backgrounds_dir}")
-    
+
+    # Preload images into memory for faster generation
+    # Randomly sample cards if max_cards is specified
+    if args.max_cards and len(cards_files) > args.max_cards:
+        print(f"Randomly sampling {args.max_cards} cards from {len(cards_files)} available cards")
+        cards_files = random.sample(cards_files, args.max_cards)
+
+    cards_images = preload_images(cards_files, "card images")
+    backgrounds_images = preload_images(backgrounds_files, "background images")
+
     # Calculate dataset split
     total_images = 10000  # Total number of images required
     split_counts = split_dataset(total_images)
@@ -569,8 +595,8 @@ def main():
     print("\nGenerating train images...")
     for i in tqdm(range(split_counts['train'])):
         generate_dataset_image(
-            cards_files, 
-            backgrounds_files, 
+            cards_images,
+            backgrounds_images,
             current_idx,
             'dataset/images/train',
             'dataset/labels/train'
@@ -581,8 +607,8 @@ def main():
     print("\nGenerating validation images...")
     for i in tqdm(range(split_counts['val'])):
         generate_dataset_image(
-            cards_files, 
-            backgrounds_files, 
+            cards_images,
+            backgrounds_images,
             current_idx,
             'dataset/images/val',
             'dataset/labels/val'
@@ -593,8 +619,8 @@ def main():
     print("\nGenerating test images...")
     for i in tqdm(range(split_counts['test'])):
         generate_dataset_image(
-            cards_files,
-            backgrounds_files,
+            cards_images,
+            backgrounds_images,
             current_idx,
             'dataset/images/test',
             'dataset/labels/test'
@@ -615,8 +641,8 @@ def main():
         print("\nGenerating flipped train images...")
         for i in tqdm(range(flipped_split['train'])):
             generate_dataset_image(
-                cards_files,
-                backgrounds_files,
+                cards_images,
+                backgrounds_images,
                 current_idx,
                 'dataset/images/train',
                 'dataset/labels/train',
@@ -628,8 +654,8 @@ def main():
         print("\nGenerating flipped validation images...")
         for i in tqdm(range(flipped_split['val'])):
             generate_dataset_image(
-                cards_files,
-                backgrounds_files,
+                cards_images,
+                backgrounds_images,
                 current_idx,
                 'dataset/images/val',
                 'dataset/labels/val',
@@ -641,8 +667,8 @@ def main():
         print("\nGenerating flipped test images...")
         for i in tqdm(range(flipped_split['test'])):
             generate_dataset_image(
-                cards_files,
-                backgrounds_files,
+                cards_images,
+                backgrounds_images,
                 current_idx,
                 'dataset/images/test',
                 'dataset/labels/test',
